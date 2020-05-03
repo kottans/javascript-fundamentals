@@ -33,3 +33,6 @@ For each of the modules, do the following:
 1. [Home work](/promises_async_functions/home_work.md)
 1. [Practice tasks](/promises_async_functions/practice.md)
 1. [Additional materials](/promises_async_functions/additional_materials.md)
+
+## ESnext & Beyond
+1. [Lecture notes(in Russian)](/es_next/lecture_notes.md)
